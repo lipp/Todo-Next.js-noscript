@@ -1,0 +1,8 @@
+{
+    "version": 1,
+    "alias": "todos-app.lipp.dev",
+    "regions": ["sfo1", "bru"],
+    "engines": {
+        "node": "10.x.x"
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "todo-nextjs-noscript",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js",
+    "now-start": "NODE_ENV=production node server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "1.4.4",
+    "express": "4.16.4",
+    "isomorphic-unfetch": "3.0.0",
+    "nanoid": "2.0.1",
+    "next": "latest",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
