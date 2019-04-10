@@ -1,5 +1,5 @@
 # Todo-Next.js-noscript
-Todo App written in Next.js which works with JavaScript disabled
+Todo App written in Next.js which works with JavaScript disabled (and enabled, of course).
 
 
 # Check it out
