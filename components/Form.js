@@ -10,7 +10,6 @@ const onSubmit = router => event => {
   const query = uniqueNames.reduce(
     (q, name) => ({
       ...q,
-      // [name]: encodeURIComponent(formData.get(name))
       [name]: formData.get(name)
     }),
     {}
